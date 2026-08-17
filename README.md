@@ -27,7 +27,6 @@
 * 🏅 **İnfo(1)Cup**
 * 🥉 **Ejoi**
 * 🥉 **Izho**
-* 🥉 **Ejoi**
 * 🥉 **Stars of Informatics**
 
 ---
