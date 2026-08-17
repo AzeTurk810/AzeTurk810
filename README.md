@@ -20,10 +20,15 @@
 
 ### 🏆 Competitive Programming
 
-* 🎯 **Codeforces**
+* 🎯 **Codeforces** ![Expert](https://codeforces.com/profile/AzeTurk810)
 * 🧠 **E-Olymp**
 * 🏔️ **Basecamp**
-* 🏅 **EJOI**
+* 🏅 **RFO(2025, 2026)**
+* 🏅 **İnfo(1)Cup**
+* 🥉 **Ejoi**
+* 🥉 **Izho**
+* 🥉 **Ejoi**
+* 🥉 **Stars of Informatics**
 
 ---
 
