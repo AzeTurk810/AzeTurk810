@@ -3,8 +3,7 @@
 ![My Workspace](https://raw.githubusercontent.com/AzeTurk810/dotfiles/master/ScreenShotsdot/2026-06-29-230254_hyprshot.png)
 
 💻 Competitive Programmer  
-🚀 Software Developer/Full stack
-
+🚀 Software Developer/Full stack   
 🐧 Linux enthusiast/Arch-Hypr User  
 
 ### 🛠️ Tech Stack
