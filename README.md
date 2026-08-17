@@ -50,6 +50,7 @@
 ---
 
 ### 📊 GitHub Stats
+[![AzeTurk810's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AzeTurk810)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzeTurk810&show_icons=true&theme=tokyonight&hide_border=true" alt="AzeTurk810 GitHub Stats" />
